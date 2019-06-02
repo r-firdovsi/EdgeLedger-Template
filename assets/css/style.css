@@ -91,6 +91,7 @@ p {
 
 .btn-dark {
     background: #333;
+    border: none;
     color: #fff;
 }
 
